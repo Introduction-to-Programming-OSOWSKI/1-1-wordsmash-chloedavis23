@@ -1,3 +1,3 @@
 #WRITE YOUR CODE HERE
 def wordSmash(a, b):
-    print ("big" + "dog")
+    return a + b
